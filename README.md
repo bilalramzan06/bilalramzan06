@@ -60,7 +60,7 @@ Lahore, Punjab, Pakistan
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bilalramzan06&theme=github_dark&hide_border=true&border_radius=4&card_width=500)](https://github.com/bilalramzan06/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/bilalramzan06/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalramzan06&layout=pie&theme=github_dark&hide_border=true&border_radius=4&langs_count=6&hide=jupyter%20notebook,html)](https://github.com/bilalramzan06/)
 [![Bilal Ramzan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilalramzan06&show_icons=true&theme=github_dark&hide_border=true&border_radius=4&rank_icon=percentile)](https://github.com/bilalramzan06/)
 
 ### 📫 Let's Connect
