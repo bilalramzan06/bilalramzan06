@@ -22,7 +22,7 @@ Currently, I'm working on the CardioGraph Pro project, where we integrate cuttin
 ### IT INNOVATION INC
 **Shopify Developer | Wix Developer**  
 *July 2023 - July 2024*  
-Lahore, Punjab, Pakistan
+Lahore, Punjab, Pakistan.
 
 **Wordpress Developer**  
 *July 2023 - July 2024*  
