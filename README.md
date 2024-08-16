@@ -43,6 +43,12 @@ Lahore, Punjab, Pakistan
 
 - **CardioGraph Pro**: A project focused on pioneering advancements in heart disease prediction using machine learning algorithms and sophisticated data analysis techniques.
 
+
+### 🌐 Languages
+
+- English (fluent)
+- Urdu (native)
+
 ## Skills
 
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -51,10 +57,6 @@ Lahore, Punjab, Pakistan
 - ![IoT](https://img.shields.io/badge/IoT-00ADEF?style=for-the-badge&logo=iot&logoColor=white)
 - ![Website Development](https://img.shields.io/badge/Website%20Development-FF6F00?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🌐 Languages
-
-- English (fluent)
-- Urdu (native)
 
 ### 📈 GitHub Stats
 
