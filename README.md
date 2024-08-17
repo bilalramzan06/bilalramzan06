@@ -4,9 +4,14 @@
 
 ## Summary
 
-I am currently pursuing a bachelor's degree in Computer Science at Minhaj University Lahore. My passion lies in utilizing data science to address real-world challenges. In addition to my academic pursuits, I have hands-on experience in website development, having developed various websites during my internship. I have also completed several data science projects using Python. My ultimate goal is to become a proficient data scientist and contribute to meaningful solutions for real-world problems.
+I am currently pursuing a bachelor's degree in Computer Science at Minhaj University Lahore. My passion lies in utilizing data science to address real-world challenges. In addition to my academic pursuits, I have hands-on experience in website development, having developed various websites in all domains. I have also completed several data science projects. My ultimate goal is to become a proficient data scientist and contribute to meaningful solutions for real-world problems.
 
 ## Experience
+
+### OMEGA FinTech
+**Financial Analyst**  
+*September 2023 - Present*  
+Remote, USA
 
 ### PITB Incubation Wing
 **IT Specialist**  
@@ -17,7 +22,7 @@ Lahore, Punjab, Pakistan
 **Final Year Project - CardioGraph Pro**  
 *March 2024 - Present*  
 Lahore, Punjab, Pakistan  
-Currently, I'm working on the CardioGraph Pro project, where we integrate cutting-edge technologies and tools to advance heart disease prediction. Our goal is to revolutionize early detection methodologies, empowering individuals to take charge of their well-being and fostering a healthier future for communities worldwide.
+Currently, I'm working on the CardioGraph Pro project, where I am integrating cutting-edge technologies and tools to advance heart disease prediction. Our goal is to revolutionize early detection methodologies, empowering individuals to take charge of their well-being and fostering a healthier future for communities worldwide.
 
 ### IT INNOVATION INC
 **Shopify Developer | Wix Developer**  
