@@ -56,15 +56,13 @@ Lahore, Punjab, Pakistan
 
 ## Skills
 
-- ![Website Development](https://img.shields.io/badge/Website%20Development-4CAF50?style=for-the-badge&logo=html5&logoColor=white)
-- ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-0078D6?style=for-the-badge&logo=android&logoColor=white)
+- ![Website Development](https://img.shields.io/badge/Website%20Development-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![Mobile App Development](https://img.shields.io/badge/Mobile%20App%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
-- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0096D6?style=for-the-badge&logo=opencv&logoColor=white)
-- ![IoT](https://img.shields.io/badge/IoT-00ADEF?style=for-the-badge&logo=iot&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+- ![IoT](https://img.shields.io/badge/IoT-FF5E00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 - ![WordPress Development](https://img.shields.io/badge/WordPress%20Development-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-  
 
 
 ### 📈 GitHub Stats
