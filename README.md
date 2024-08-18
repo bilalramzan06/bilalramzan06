@@ -1,10 +1,5 @@
 # Bilal Ramzan - Computer Science Student
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
-
-# Welcome to My GitHub Profile!
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)](https://github.com/bilalramzan06)
-
+![Profile Views](https://komarev.com/ghpvc/?username=bilalramzan06&color=blue&style=flat-square)
 <!-- Add more sections as needed -->
 
 
