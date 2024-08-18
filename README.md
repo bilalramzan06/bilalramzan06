@@ -1,4 +1,12 @@
 # Bilal Ramzan - Computer Science Student
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+
+# Welcome to My GitHub Profile!
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)](https://github.com/bilalramzan06)
+
+<!-- Add more sections as needed -->
+
 
 👋 Hi, I'm Bilal Ramzan, a passionate Computer Science student at Minhaj University Lahore with a focus on data science. I leverage data-driven approaches to solve practical problems and facilitate informed decisions across diverse domains. 
 
