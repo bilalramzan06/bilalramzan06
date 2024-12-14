@@ -69,7 +69,8 @@ Lahore, Punjab, Pakistan
 
 ### 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bilalramzan06&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bilalramzan06&theme=radical&hide_border=true)
+
 
 
 
