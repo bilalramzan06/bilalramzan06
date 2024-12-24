@@ -5,7 +5,7 @@
 
 👋 Hi, I'm Bilal Ramzan, a passionate Computer Science student at Minhaj University Lahore with a focus on data science. I leverage data-driven approaches to solve practical problems and facilitate informed decisions across diverse domains. 
 
-## Summary
+## Summary 
 
 I am currently pursuing a bachelor's degree in Computer Science at Minhaj University Lahore. My passion lies in utilizing data science to address real-world challenges. In addition to my academic pursuits, I have hands-on experience in website development, having developed various websites in all domains. I have also completed several data science projects. My ultimate goal is to become a proficient data scientist and contribute to meaningful solutions for real-world problems.
 
